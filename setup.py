@@ -23,7 +23,7 @@ setup(
           'numpy',         
           'torch',
           'transformers',
-          'sklearn',
+          'scikit-learn',
           'pandas'
           
       ],
